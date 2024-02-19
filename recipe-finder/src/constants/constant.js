@@ -1,4 +1,4 @@
-export const logo = 'https://ourrecipes.in/wp-content/uploads/2021/09/our-recipes-logo-retina.png';
+export const logo = 'https://thumbs.dreamstime.com/b/recipe-word-text-green-leaf-logo-icon-design-white-background-suitable-card-typography-143638205.jpg';
 
 
 export const API_URL = 'https://forkify-api.herokuapp.com/api';
